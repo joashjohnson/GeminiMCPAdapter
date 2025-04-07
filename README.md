@@ -1,4 +1,4 @@
-# Gemini MCP Adapter
+# Gemini MCP Adapter By LAB378
 
 This adapter allows you to easily integrate your Gemini API applications with Model Context Protocol (MCP) servers, providing access to a wide range of tools and capabilities.
 
